@@ -1,0 +1,12 @@
+[Info   :Boomerang Fu 8 Players] AUTOMATCH bots added 8/8 team=False
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> Splash
+[Info   :Boomerang Fu 8 Players] Playlist for 8 players: 54/58 levels eligible, raised maxPlayers on 54
+[Info   :Boomerang Fu 8 Players] Spawn plan LevelTemple: orig=6 total=8 origMin=14.4 min=14.4 meanNN=21.6 centerMean=25.1 centerStd=10.3 cand=994/1581 eligible=True OK
+[Info   :Boomerang Fu 8 Players] Spawn assignment round 1 (Assets/Scenes/LevelTemple.unity, team=False): P0t0=(-31.4,18.1) P1t0=(26.7,-16.9) P2t0=(-26.1,-18.0) P3t0=(4.5,-22.5) P4t0=(9.0,22.5) P5t0=(-15.2,-8.6) P6t0=(31.1,13.5) P7t0=(2.6,0.3) 
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> None
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> Instructions
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> None
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> RoundTitles
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> None
+--- unity exceptions ---
+

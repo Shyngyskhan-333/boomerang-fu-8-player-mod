@@ -1,0 +1,15 @@
+[Info   :Boomerang Fu 8 Players] AUTOMATCH bots added 8/8 team=False
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> Splash
+[Info   :Boomerang Fu 8 Players] Playlist for 8 players: 54/58 levels eligible, raised maxPlayers on 54
+[Info   :Boomerang Fu 8 Players] Spawn plan LevelCircleMaze: orig=6 total=8 origMin=22.1 min=17.0 meanNN=18.4 centerMean=23.8 centerStd=4.1 cand=1133/1521 eligible=True OK
+[Info   :Boomerang Fu 8 Players] Spawn assignment round 1 (Assets/Scenes/LevelCircleMaze.unity, team=False): P0t0=(22.0,-17.0) P1t0=(-19.5,0.0) P2t0=(21.0,0.0) P3t0=(22.0,17.0) P4t0=(0.0,-18.6) P5t0=(0.0,20.0) P6t0=(-22.0,17.0) P7t0=(-22.0,-17.0) 
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> None
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> Instructions
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> None
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> RoundTitles
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> None
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> RoundEnd
+[Info   :Boomerang Fu 8 Players] AUTOMATCH continue from round end
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> MatchEnd
+--- unity exceptions ---
+

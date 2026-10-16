@@ -1,0 +1,19 @@
+[Info   :Boomerang Fu 8 Players] AUTOMATCH bots added 8/8 team=False
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> Splash
+[Info   :Boomerang Fu 8 Players] Playlist for 8 players: 54/58 levels eligible, raised maxPlayers on 54
+[Info   :Boomerang Fu 8 Players] Spawn plan LevelPinball: orig=6 total=8 origMin=16.6 min=16.6 meanNN=18.4 centerMean=21.5 centerStd=5.5 cand=676/1209 eligible=True OK
+[Info   :Boomerang Fu 8 Players] Spawn assignment round 1 (Assets/Scenes/LevelPinball.unity, team=False): P0t0=(18.3,-19.0) P1t0=(-1.5,-19.5) P2t0=(-1.5,19.5) P3t0=(-8.9,-1.1) P4t0=(-21.5,15.6) P5t0=(17.7,18.0) P6t0=(20.5,1.6) P7t0=(-21.0,-13.8) 
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> None
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> Instructions
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> None
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> RoundTitles
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> None
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> RoundEnd
+[Info   :Boomerang Fu 8 Players] AUTOMATCH continue from round end
+[Info   :Boomerang Fu 8 Players] Spawn plan LevelRooms: orig=6 total=8 origMin=13.5 min=13.5 meanNN=16.2 centerMean=18.9 centerStd=5.4 cand=577/960 eligible=True OK
+[Info   :Boomerang Fu 8 Players] Spawn assignment round 2 (Assets/Scenes/LevelRooms.unity, team=False): P0t0=(-0.8,21.8) P1t0=(-18.0,13.0) P2t0=(-9.0,3.0) P3t0=(18.0,13.0) P4t0=(-0.8,-21.8) P5t0=(18.0,-13.0) P6t0=(-18.0,-13.0) P7t0=(9.0,-3.0) 
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> None
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> RoundTitles
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> None
+--- unity exceptions ---
+

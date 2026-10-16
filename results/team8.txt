@@ -1,0 +1,22 @@
+[Info   :Boomerang Fu 8 Players] AUTOMATCH bots added 8/8 team=True
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> Splash
+[Info   :Boomerang Fu 8 Players] Playlist for 8 players: 54/58 levels eligible, raised maxPlayers on 54
+[Info   :Boomerang Fu 8 Players] Spawn plan LevelMoving: orig=6 total=8 origMin=16.0 min=15.0 meanNN=15.4 centerMean=18.3 centerStd=5.8 cand=455/742 eligible=True OK
+[Info   :Boomerang Fu 8 Players] Spawn assignment round 1 (Assets/Scenes/LevelMoving.unity, team=True): P0t1=(13.4,-13.4) P2t1=(-0.8,-20.3) P4t1=(-6.4,-6.4) P6t1=(-17.7,-17.7) P1t2=(0.8,20.3) P3t2=(6.4,6.4) P5t2=(-13.4,13.4) P7t2=(17.7,17.7) 
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> None
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> Instructions
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> None
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> RoundTitles
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> None
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> RoundEnd
+[Info   :Boomerang Fu 8 Players] AUTOMATCH continue from round end
+[Info   :Boomerang Fu 8 Players] Spawn plan LevelEnclosed: orig=6 total=8 origMin=13.6 min=13.5 meanNN=13.9 centerMean=17.0 centerStd=4.5 cand=519/676 eligible=True OK
+[Info   :Boomerang Fu 8 Players] Spawn assignment round 2 (Assets/Scenes/LevelEnclosed.unity, team=True): P0t1=(0.0,-17.0) P2t1=(-13.0,-13.0) P4t1=(13.0,-13.0) P6t1=(-18.8,-0.8) P1t2=(-13.0,13.0) P3t2=(3.8,18.8) P5t2=(17.0,12.0) P7t2=(0.0,5.5) 
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> None
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> RoundTitles
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> None
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> RoundEnd
+[Info   :Boomerang Fu 8 Players] AUTOMATCH continue from round end
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> MatchEnd
+--- unity exceptions ---
+NullReferenceException: Object reference not set to an instance of an object |   at UIScoreRow+<RemoveTeamKill>d__31.MoveNext () [0x000b0] in <c0efd5243e384d1b9ad6e4863938d5f0>:0 

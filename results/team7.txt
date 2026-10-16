@@ -1,0 +1,15 @@
+[Info   :Boomerang Fu 8 Players] AUTOMATCH bots added 7/7 team=True
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> Splash
+[Info   :Boomerang Fu 8 Players] Playlist for 7 players: 54/58 levels eligible, raised maxPlayers on 54
+[Info   :Boomerang Fu 8 Players] Spawn plan LevelBambooGrove: orig=6 total=8 origMin=22.9 min=17.6 meanNN=20.5 centerMean=23.9 centerStd=8.3 cand=688/1200 eligible=True OK
+[Info   :Boomerang Fu 8 Players] Spawn assignment round 1 (Assets/Scenes/LevelBambooGrove.unity, team=True): P1t2=(-28.1,17.0) P3t2=(-19.2,-17.4) P5t2=(-24.8,-0.8) P7t2=(-4.3,20.3) P2t1=(26.8,12.5) P4t1=(5.3,-21.8) P6t1=(-0.4,-4.5) 
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> None
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> Instructions
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> None
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> RoundTitles
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> None
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> RoundEnd
+[Info   :Boomerang Fu 8 Players] AUTOMATCH continue from round end
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> MatchEnd
+--- unity exceptions ---
+

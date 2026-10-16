@@ -1,0 +1,12 @@
+[Info   :Boomerang Fu 8 Players] AUTOMATCH bots added 5/5 team=False
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> Splash
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> None
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> Instructions
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> None
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> RoundTitles
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> None
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> RoundEnd
+[Info   :Boomerang Fu 8 Players] AUTOMATCH continue from round end
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> MatchEnd
+--- unity exceptions ---
+

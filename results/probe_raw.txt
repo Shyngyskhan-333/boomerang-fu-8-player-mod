@@ -1,0 +1,115 @@
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelDrift.unity orig=6 total=8 origMin=14.1 min=12.0 meanNN=12.7 centerMean=15.0 centerStd=4.3 cand=367/1209 eligible=True OK
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelDrift.unity o(-14.0;12.0) o(14.0;12.0) o(14.0;-12.0) o(-14.0;-12.0) o(0.0;10.5) o(0.0;-6.0) n(-15.0;0.0) n(15.0;0.0) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelEnclosed.unity orig=6 total=8 origMin=13.6 min=13.5 meanNN=13.9 centerMean=17.0 centerStd=4.5 cand=519/676 eligible=True OK
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelEnclosed.unity o(-13.0;13.0) o(-13.0;-13.0) o(13.0;-13.0) o(17.0;12.0) o(0.0;5.5) o(0.0;-17.0) n(3.8;18.8) n(-18.8;-0.8) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelMiniIsland.unity orig=6 total=8 origMin=11.3 min=10.1 meanNN=11.3 centerMean=14.9 centerStd=4.8 cand=500/809 eligible=True OK
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelMiniIsland.unity o(-18.4;-4.2) o(-4.2;-18.4) o(18.4;4.2) o(4.2;18.4) o(-8.3;1.0) o(5.9;0.0) n(-6.0;13.5) n(-10.5;-10.5) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelFalling2.unity orig=6 total=8 origMin=16.5 min=16.5 meanNN=17.4 centerMean=22.2 centerStd=5.6 cand=632/945 eligible=True OK
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelFalling2.unity o(-20.0;14.0) o(-20.0;-18.0) o(20.0;-18.0) o(20.0;14.0) o(-24.0;-2.0) o(24.0;-2.0) n(0.0;-18.0) n(0.0;9.0) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelIsland.unity orig=6 total=8 origMin=19.1 min=18.9 meanNN=20.0 centerMean=24.1 centerStd=7.6 cand=625/1600 eligible=True OK
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelIsland.unity o(-6.9;27.8) o(24.6;15.0) o(8.4;-22.9) o(-23.2;-11.6) o(-21.3;15.2) o(25.7;-4.6) n(-11.3;-26.3) n(2.2;3.7) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelMaze.unity orig=6 total=8 origMin=13.1 min=13.1 meanNN=15.7 centerMean=20.8 centerStd=4.8 cand=466/945 eligible=True OK
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelMaze.unity o(-15.5;15.0) o(-20.5;-15.1) o(20.6;-3.0) o(9.0;15.0) o(-10.0;1.0) o(22.0;10.0) n(7.5;-19.5) n(-25.5;3.0) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelMoving.unity orig=6 total=8 origMin=16.0 min=15.0 meanNN=15.4 centerMean=18.3 centerStd=5.8 cand=455/742 eligible=True OK
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelMoving.unity o(-13.4;13.4) o(-17.7;-17.7) o(13.4;-13.4) o(17.7;17.7) o(-6.4;-6.4) o(6.4;6.4) n(-0.8;-20.3) n(0.8;20.3) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelPlants.unity orig=6 total=8 origMin=14.4 min=14.4 meanNN=16.7 centerMean=19.5 centerStd=7.4 cand=172/884 eligible=True OK
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelPlants.unity o(-19.9;15.5) o(-19.2;-16.5) o(18.7;-17.1) o(19.2;14.1) o(-4.9;5.0) o(6.4;-3.8) n(0.8;-18.8) n(-23.3;-0.8) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelSquare.unity orig=6 total=8 origMin=13.6 min=13.6 meanNN=15.4 centerMean=21.1 centerStd=6.0 cand=389/742 eligible=True OK
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelSquare.unity o(-2.8;25.5) o(-25.5;2.8) o(2.8;-25.5) o(25.5;-2.8) o(-0.7;12.0) o(0.0;-9.9) n(15.8;-15.8) n(-15.8;15.8) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelRooms.unity orig=6 total=8 origMin=13.5 min=13.5 meanNN=16.2 centerMean=18.9 centerStd=5.4 cand=577/960 eligible=True OK
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelRooms.unity o(-18.0;13.0) o(18.0;13.0) o(18.0;-13.0) o(-18.0;-13.0) o(-9.0;3.0) o(9.0;-3.0) n(-0.8;-21.8) n(-0.8;21.8) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelSpin.unity orig=6 total=8 origMin=23.6 min=23.6 meanNN=23.8 centerMean=29.8 centerStd=5.4 cand=471/1287 eligible=True OK
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelSpin.unity o(0.0;23.5) o(-25.5;0.0) o(0.0;-23.5) o(25.5;0.0) o(-27.5;23.5) o(27.5;-23.5) n(-24.0;-24.0) n(24.0;24.0) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelTeleportals.unity orig=6 total=8 origMin=11.0 min=11.0 meanNN=15.1 centerMean=18.2 centerStd=7.0 cand=454/906 eligible=True OK
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelTeleportals.unity o(-21.6;-0.4) o(-8.1;-22.3) o(21.6;8.8) o(4.2;25.5) o(1.4;4.2) o(9.2;-3.5) n(6.8;-18.8) n(-6.8;15.8) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelTracks.unity orig=6 total=8 origMin=13.8 min=13.8 meanNN=17.6 centerMean=20.8 centerStd=8.0 cand=737/1360 eligible=True OK
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelTracks.unity o(-18.0;18.0) o(22.0;17.0) o(13.0;-16.0) o(-20.0;-20.0) o(-5.0;6.0) o(3.0;-6.5) n(2.3;24.8) n(-24.8;-0.8) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelSplit.unity orig=6 total=8 origMin=12.0 min=12.0 meanNN=17.5 centerMean=19.0 centerStd=11.3 cand=325/1340 eligible=True OK
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelSplit.unity o(8.5;0.0) o(0.0;8.5) o(-8.5;0.0) o(0.0;-8.5) o(23.3;14.8) o(15.6;-15.6) n(3.8;38.3) n(-24.8;-17.3) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelFalling.unity orig=6 total=8 origMin=15.0 min=15.0 meanNN=19.2 centerMean=23.4 centerStd=8.1 cand=655/1199 eligible=True OK
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelFalling.unity o(-32.5;0.0) o(2.1;29.7) o(21.9;0.0) o(-7.8;-29.7) o(-2.8;4.2) o(15.9;-13.8) n(-19.5;15.0) n(-18.0;-12.0) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelWheel.unity orig=6 total=8 origMin=15.9 min=14.9 meanNN=16.2 centerMean=19.6 centerStd=6.0 cand=608/1122 eligible=True OK
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelWheel.unity o(15.5;-12.1) o(7.4;21.7) o(-9.2;-3.1) o(9.0;2.4) o(-18.0;14.7) o(-8.5;-22.0) n(24.3;0.3) n(-23.7;0.3) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelClouds.unity orig=6 total=8 origMin=24.1 min=24.1 meanNN=27.2 centerMean=30.8 centerStd=11.6 cand=829/2592 eligible=True OK
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelClouds.unity o(31.8;-6.3) o(11.7;27.8) o(-32.1;12.5) o(-25.9;-27.9) o(0.1;-2.7) o(19.0;-26.7) n(-12.8;27.8) n(39.8;21.8) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelSlideTraps.unity orig=6 total=8 origMin=18.7 min=18.7 meanNN=21.7 centerMean=26.7 centerStd=10.4 cand=962/1247 eligible=True OK
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelSlideTraps.unity o(-31.4;15.9) o(-31.6;-21.4) o(29.9;-18.2) o(26.4;20.9) o(2.7;-6.1) o(-15.1;6.8) n(3.0;21.0) n(27.0;1.5) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelPools.unity orig=6 total=8 origMin=14.8 min=14.8 meanNN=19.1 centerMean=22.9 centerStd=9.4 cand=804/1161 eligible=True OK
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelPools.unity o(-29.4;9.8) o(-30.1;-15.9) o(22.6;-13.1) o(27.3;14.7) o(4.3;-9.7) o(-6.2;0.7) n(6.0;19.5) n(-13.5;19.5) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelMarketplace.unity orig=6 total=8 origMin=17.5 min=17.5 meanNN=18.8 centerMean=23.4 centerStd=8.3 cand=816/1247 eligible=True OK
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelMarketplace.unity o(-21.4;14.7) o(-30.7;-19.9) o(21.3;-12.2) o(21.7;15.3) o(-11.9;-5.4) o(8.2;4.3) n(1.5;-21.0) n(-30.0;-1.5) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelTemple.unity orig=6 total=8 origMin=14.4 min=14.4 meanNN=21.6 centerMean=25.1 centerStd=10.3 cand=994/1581 eligible=True OK
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelTemple.unity o(-31.4;18.1) o(-26.1;-18.0) o(26.7;-16.9) o(31.1;13.5) o(-15.2;-8.6) o(2.6;0.3) n(9.0;22.5) n(4.5;-22.5) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelTempleGarden.unity orig=6 total=8 origMin=13.3 min=13.3 meanNN=19.1 centerMean=24.9 centerStd=7.8 cand=239/1161 eligible=True OK
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelTempleGarden.unity o(-19.4;20.0) o(-29.9;-18.0) o(20.4;-11.2) o(17.3;9.1) o(31.9;-4.4) o(-10.1;1.2) n(-1.5;-19.5) n(-31.5;3.0) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelTurnstile.unity orig=6 total=8 origMin=20.5 min=14.8 meanNN=17.1 centerMean=21.3 centerStd=7.4 cand=524/1196 eligible=True OK
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelTurnstile.unity o(-18.6;17.1) o(-25.4;-9.0) o(23.5;-18.5) o(27.2;9.0) o(3.9;9.1) o(-2.4;-10.4) n(15.5;18.3) n(-13.0;1.8) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelToaster.unity orig=6 total=8 origMin=19.5 min=19.5 meanNN=22.3 centerMean=26.9 centerStd=8.0 cand=936/1457 eligible=True OK
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelToaster.unity o(-22.2;21.7) o(-33.8;-17.7) o(22.8;-22.5) o(27.5;19.8) o(-13.8;-4.4) o(9.2;12.9) n(27.0;-1.5) n(0.0;-22.5) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelWasher.unity orig=6 total=8 origMin=12.2 min=12.2 meanNN=17.7 centerMean=25.3 centerStd=5.3 cand=1020/1739 eligible=True OK
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelWasher.unity o(-19.6;15.2) o(-22.3;-9.0) o(19.9;-15.4) o(32.3;4.4) o(-35.0;0.2) o(20.2;6.0) n(-3.0;-19.5) n(4.5;19.5) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelForest.unity orig=6 total=8 origMin=16.2 min=16.2 meanNN=20.9 centerMean=24.0 centerStd=7.0 cand=1206/1333 eligible=True OK
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelForest.unity o(-27.0;16.3) o(-29.5;-13.4) o(23.9;-16.4) o(15.9;21.8) o(-11.7;1.3) o(14.5;-3.2) n(-1.5;-22.5) n(-6.0;22.5) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelPier.unity orig=6 total=8 origMin=11.8 min=11.8 meanNN=21.5 centerMean=30.0 centerStd=4.7 cand=1137/2072 eligible=True OK
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelPier.unity o(-35.6;20.1) o(14.5;25.4) o(16.8;-19.1) o(-25.9;-10.9) o(32.6;4.5) o(-27.3;0.8) n(-11.4;27.6) n(-8.4;-24.9) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelOnsen.unity orig=6 total=8 origMin=20.8 min=20.8 meanNN=23.8 centerMean=27.8 centerStd=11.7 cand=1217/1705 eligible=True OK
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelOnsen.unity o(-31.5;20.3) o(-36.3;-18.0) o(31.8;-19.8) o(8.1;8.9) o(-6.0;-6.3) o(34.2;16.5) n(9.0;-22.5) n(-9.0;22.5) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelCloudSweep.unity orig=6 total=8 origMin=18.0 min=15.5 meanNN=18.1 centerMean=22.7 centerStd=6.2 cand=813/1840 eligible=True OK
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelCloudSweep.unity o(29.0;-3.0) o(15.3;18.6) o(-16.6;11.9) o(-17.8;-19.5) o(-0.9;-7.5) o(5.5;-24.3) n(-26.3;-3.8) n(17.3;-14.3) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelWhisk.unity orig=6 total=8 origMin=24.1 min=18.9 meanNN=21.8 centerMean=29.6 centerStd=4.9 cand=1043/1419 eligible=True OK
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelWhisk.unity o(-28.4;19.2) o(-28.3;-22.3) o(9.9;-23.6) o(27.3;18.6) o(30.9;-6.8) o(-4.3;20.2) n(-30.0;-1.5) n(-9.0;-24.0) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelBambooGrove.unity orig=6 total=8 origMin=22.9 min=17.6 meanNN=20.5 centerMean=23.9 centerStd=8.3 cand=688/1200 eligible=True OK
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelBambooGrove.unity o(-28.1;17.0) o(-19.2;-17.4) o(23.5;-19.9) o(26.8;12.5) o(-0.4;-4.5) o(-4.3;20.3) n(5.3;-21.8) n(-24.8;-0.8) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelBridges.unity orig=6 total=8 origMin=16.5 min=16.5 meanNN=19.8 centerMean=23.2 centerStd=7.4 cand=619/1868 eligible=True OK
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelBridges.unity o(-1.3;-28.6) o(-27.8;-7.4) o(-1.5;24.4) o(25.5;4.5) o(16.1;-20.6) o(-23.4;8.5) n(-2.3;-3.8) n(-14.3;-17.3) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelHenge.unity orig=6 total=8 origMin=15.0 min=15.0 meanNN=17.0 centerMean=25.2 centerStd=3.5 cand=889/1200 eligible=True OK
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelHenge.unity o(-21.0;15.0) o(-21.0;-15.0) o(15.0;-21.0) o(15.0;21.0) o(0.0;-21.5) o(0.0;18.0) n(29.3;-0.8) n(-29.3;-0.8) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelMist.unity orig=6 total=8 origMin=16.8 min=16.8 meanNN=18.9 centerMean=23.0 centerStd=8.0 cand=627/1201 eligible=True OK
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelMist.unity o(3.6;-22.9) o(27.2;-11.1) o(-6.1;29.2) o(-35.0;9.8) o(10.7;-7.5) o(-5.5;9.5) n(14.6;13.0) n(-21.4;-5.0) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelRing.unity orig=6 total=8 origMin=17.7 min=17.7 meanNN=19.0 centerMean=24.0 centerStd=4.6 cand=495/905 eligible=True OK
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelRing.unity o(16.4;-8.1) o(-16.4;11.5) o(-11.5;-16.4) o(9.0;17.5) o(-25.3;-5.4) o(28.6;5.4) n(7.5;-28.5) n(-7.5;28.5) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelPinball.unity orig=6 total=8 origMin=16.6 min=16.6 meanNN=18.4 centerMean=21.5 centerStd=5.5 cand=676/1209 eligible=True OK
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelPinball.unity o(-21.5;15.6) o(-21.0;-13.8) o(18.3;-19.0) o(17.7;18.0) o(-8.9;-1.1) o(20.5;1.6) n(-1.5;-19.5) n(-1.5;19.5) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelTurnTeleportals.unity orig=6 total=8 origMin=26.0 min=20.0 meanNN=21.6 centerMean=27.8 centerStd=6.1 cand=907/1275 eligible=True OK
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelTurnTeleportals.unity o(-31.7;8.5) o(-16.4;-28.4) o(31.7;-8.5) o(16.4;28.4) o(6.1;-14.8) o(-7.7;18.5) n(-25.5;-10.5) n(25.5;10.5) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelTrap.unity orig=6 total=8 origMin=17.9 min=6.5 meanNN=14.8 centerMean=20.1 centerStd=7.6 cand=240/1479 eligible=False spacing 6.5 < 10.7
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelTrap.unity o(-16.0;16.0) o(-16.0;-16.0) o(16.0;-16.0) o(16.0;16.0) o(-24.0;0.0) o(24.0;0.0) n(0.0;0.0) n(-19.5;10.5) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelPincer.unity orig=6 total=8 origMin=22.0 min=16.9 meanNN=18.3 centerMean=22.7 centerStd=7.0 cand=292/2165 eligible=True OK
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelPincer.unity o(9.9;21.2) o(-8.5;-22.6) o(-28.3;-2.8) o(28.3;2.8) o(-7.8;7.8) o(7.8;-7.8) n(-24.0;13.5) n(24.0;-13.5) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelShrine.unity orig=6 total=8 origMin=15.5 min=15.5 meanNN=15.5 centerMean=18.3 centerStd=4.3 cand=676/1024 eligible=True OK
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelShrine.unity o(-20.5;5.5) o(-5.5;-20.5) o(20.5;-5.5) o(5.5;20.5) o(-9.5;-5.5) o(9.5;5.5) n(-9.8;17.3) n(9.8;-17.3) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelRivercrossing.unity orig=6 total=8 origMin=22.4 min=12.6 meanNN=18.2 centerMean=21.0 centerStd=6.8 cand=546/1155 eligible=False spacing 12.6 < 13.4
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelRivercrossing.unity o(23.0;5.0) o(-5.0;-21.0) o(-23.0;-5.0) o(5.0;21.0) o(19.0;-17.0) o(-19.0;17.0) n(3.0;-1.5) n(-7.5;22.5) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelMaze2.unity orig=6 total=8 origMin=12.4 min=12.4 meanNN=15.2 centerMean=19.5 centerStd=6.0 cand=471/841 eligible=True OK
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelMaze2.unity o(-12.0;0.0) o(-12.0;-15.0) o(12.0;0.0) o(12.0;15.0) o(0.0;18.0) o(0.0;-18.0) n(-21.0;19.5) n(21.0;-19.5) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelRaftCrusher.unity orig=6 total=8 origMin=15.1 min=15.1 meanNN=15.7 centerMean=19.3 centerStd=6.6 cand=740/1241 eligible=True OK
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelRaftCrusher.unity o(-16.8;-9.3) o(5.3;-18.5) o(16.8;9.3) o(-5.3;18.5) o(-9.2;3.8) o(9.2;-3.8) n(-27.0;6.0) n(22.5;-19.5) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelRaftSwitches.unity orig=6 total=8 origMin=20.0 min=14.7 meanNN=16.3 centerMean=22.4 centerStd=9.0 cand=636/1457 eligible=True OK
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelRaftSwitches.unity o(-15.0;11.0) o(-5.0;-11.0) o(15.0;-11.0) o(5.0;11.0) o(33.0;16.0) o(-33.0;-16.0) n(-21.0;-7.5) n(21.0;7.5) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelRaftPair.unity orig=6 total=8 origMin=18.0 min=14.5 meanNN=16.7 centerMean=22.7 centerStd=4.0 cand=647/1443 eligible=True OK
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelRaftPair.unity o(-16.0;16.0) o(-23.0;-16.0) o(16.0;-16.0) o(23.0;16.0) o(-5.0;-16.0) o(5.0;16.0) n(-24.0;1.5) n(22.5;-3.0) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelBigRaft.unity orig=6 total=8 origMin=8.0 min=8.0 meanNN=8.5 centerMean=19.7 centerStd=5.0 cand=308/1505 eligible=True OK
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelBigRaft.unity o(-24.0;-7.1) o(-7.1;-24.0) o(4.2;-12.7) o(-12.7;4.2) o(-1.4;-18.4) o(-18.4;-1.4) n(-12.0;-12.0) n(-21.0;-16.5) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelIslandPair.unity orig=6 total=8 origMin=22.0 min=14.2 meanNN=18.3 centerMean=24.3 centerStd=5.1 cand=497/1271 eligible=True OK
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelIslandPair.unity o(-16.0;16.0) o(-28.0;-5.0) o(16.0;-16.0) o(28.0;5.0) o(-11.0;-19.0) o(11.0;19.0) n(-15.0;1.5) n(-30.0;13.5) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelCrate.unity orig=6 total=8 origMin=15.0 min=15.0 meanNN=15.2 centerMean=19.2 centerStd=2.5 cand=465/841 eligible=True OK
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelCrate.unity o(-15.0;15.0) o(-15.0;-15.0) o(15.0;-15.0) o(15.0;15.0) o(0.0;-15.0) o(0.0;15.0) n(-19.5;0.0) n(19.5;0.0) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelTrapMaze2.unity orig=6 total=6 origMin=13.4 min=13.4 meanNN=13.4 centerMean=17.3 centerStd=0.5 cand=0/1681 eligible=False too few valid points
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelTrapMaze2.unity o(-12.0;12.0) o(-12.0;-12.0) o(12.0;-12.0) o(12.0;12.0) o(-18.0;0.0) o(18.0;0.0) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelCourtyard.unity orig=6 total=8 origMin=20.5 min=20.5 meanNN=21.3 centerMean=25.8 centerStd=6.3 cand=609/1623 eligible=True OK
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelCourtyard.unity o(-31.8;10.6) o(-3.5;-26.2) o(31.8;-10.6) o(3.5;26.2) o(11.3;-11.3) o(-11.3;11.3) n(-25.5;-12.0) n(24.0;10.5) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelFourCogs.unity orig=6 total=8 origMin=15.6 min=15.6 meanNN=16.7 centerMean=21.7 centerStd=5.8 cand=894/1365 eligible=True OK
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelFourCogs.unity o(-22.0;0.0) o(0.0;-22.0) o(22.0;0.0) o(0.0;22.0) o(-10.0;10.0) o(10.0;-10.0) n(-25.5;-22.5) n(16.5;16.5) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelDonut.unity orig=6 total=8 origMin=15.8 min=15.8 meanNN=16.1 centerMean=21.1 centerStd=1.7 cand=779/1225 eligible=True OK
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelDonut.unity o(-20.0;0.0) o(0.0;-20.0) o(20.0;0.0) o(0.0;20.0) o(-15.0;15.0) o(15.0;-15.0) n(18.0;18.0) n(-15.0;-15.0) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelTrapIslands.unity orig=6 total=8 origMin=22.1 min=20.2 meanNN=23.0 centerMean=26.2 centerStd=7.8 cand=657/1763 eligible=True OK
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelTrapIslands.unity o(-24.0;24.0) o(-23.0;-17.0) o(20.0;-22.0) o(26.0;14.0) o(-2.0;26.0) o(-4.0;-4.0) n(-3.0;-27.5) n(-27.0;4.0) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelRaftSwitches2.unity orig=6 total=8 origMin=28.3 min=28.0 meanNN=28.2 centerMean=35.0 centerStd=10.2 cand=1511/2491 eligible=True OK
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelRaftSwitches2.unity o(-30.0;5.0) o(-15.0;-20.0) o(30.0;-5.0) o(15.0;20.0) o(15.0;-29.0) o(-15.0;29.0) n(-39.0;-34.5) n(39.0;34.5) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelCircleMaze.unity orig=6 total=8 origMin=22.1 min=17.0 meanNN=18.4 centerMean=23.8 centerStd=4.1 cand=1133/1521 eligible=True OK
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelCircleMaze.unity o(-22.0;17.0) o(-22.0;-17.0) o(22.0;-17.0) o(22.0;17.0) o(0.0;20.0) o(0.0;-18.6) n(21.0;0.0) n(-19.5;0.0) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelRollerSweep.unity orig=6 total=8 origMin=17.1 min=17.1 meanNN=17.8 centerMean=23.8 centerStd=2.4 cand=717/1591 eligible=True OK
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelRollerSweep.unity o(-16.0;16.0) o(-16.0;-16.0) o(16.0;-16.0) o(16.0;16.0) o(-22.0;0.0) o(22.0;0.0) n(0.0;-28.5) n(0.0;27.0) 
+[Info   :Boomerang Fu 8 Players] PLAN Assets/Scenes/LevelJungleRuins.unity orig=6 total=8 origMin=17.1 min=17.1 meanNN=18.5 centerMean=19.9 centerStd=6.3 cand=735/945 eligible=True OK
+[Info   :Boomerang Fu 8 Players] PLANPTS Assets/Scenes/LevelJungleRuins.unity o(-19.0;16.0) o(-22.0;-13.0) o(16.0;-16.0) o(22.0;16.0) o(-10.0;0.0) o(10.0;0.0) n(1.5;19.5) n(-3.0;-19.5) 
+[Info   :Boomerang Fu 8 Players] PROBE DONE

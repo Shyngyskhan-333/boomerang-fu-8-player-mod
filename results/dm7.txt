@@ -1,0 +1,22 @@
+[Info   :Boomerang Fu 8 Players] AUTOMATCH bots added 7/7 team=False
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> Splash
+[Info   :Boomerang Fu 8 Players] Playlist for 7 players: 54/58 levels eligible, raised maxPlayers on 54
+[Info   :Boomerang Fu 8 Players] Spawn plan LevelMarketplace: orig=6 total=8 origMin=17.5 min=17.5 meanNN=18.8 centerMean=23.4 centerStd=8.3 cand=816/1247 eligible=True OK
+[Info   :Boomerang Fu 8 Players] Spawn assignment round 1 (Assets/Scenes/LevelMarketplace.unity, team=False): P1t0=(8.2,4.3) P2t0=(21.3,-12.2) P3t0=(-30.7,-19.9) P4t0=(21.7,15.3) P5t0=(-21.4,14.7) P6t0=(-11.9,-5.4) P7t0=(1.5,-21.0) 
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> None
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> Instructions
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> None
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> RoundTitles
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> None
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> RoundEnd
+[Info   :Boomerang Fu 8 Players] AUTOMATCH continue from round end
+[Info   :Boomerang Fu 8 Players] Spawn plan LevelShrine: orig=6 total=8 origMin=15.5 min=15.5 meanNN=15.5 centerMean=18.3 centerStd=4.3 cand=676/1024 eligible=True OK
+[Info   :Boomerang Fu 8 Players] Spawn assignment round 2 (Assets/Scenes/LevelShrine.unity, team=False): P4t0=(20.5,-5.5) P6t0=(5.5,20.5) 
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> None
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> RoundTitles
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> None
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> RoundEnd
+[Info   :Boomerang Fu 8 Players] AUTOMATCH continue from round end
+[Info   :Boomerang Fu 8 Players] AUTOMATCH menu -> MatchEnd
+--- unity exceptions ---
+

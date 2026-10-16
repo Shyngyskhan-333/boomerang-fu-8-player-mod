@@ -1,0 +1,8 @@
+bin/
+obj/
+*.user
+tools/dotnet/
+tools/ilspy/
+shots*/
+src_decomp/
+backup/
